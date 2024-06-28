@@ -33,7 +33,9 @@ Text data is used in natural language processing (NLP), which interacts between 
 # How Cosine Similarity works?
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
 
-# Linkdin Profile
+![134168633-f85a6481-82a4-445d-82e4-51208984ffbd](https://github.com/Ishant2002/Movie-Recommender-System/assets/93085670/80b8ac0d-19ea-4a41-b4a3-81b3333dad30)
+
+# LinkedIn Profile
 For any queries regarding about this project contact me
 
 [Linkedin Profile](https://www.linkedin.com/in/anil-l-b023631b6/)
